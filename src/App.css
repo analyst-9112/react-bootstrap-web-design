@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.underline{
+  height: 4px;
+  width: 21rem;
+  border-radius: 4px;
+  background-color: rgb(196, 20, 20);
+}
+.sub-underline{
+  height: 4px;
+  width: 4rem;
+  border-radius: 4px;
+  background-color: slateblue;
+}
+.f2f2f2{
+  background-color: #f2f2f2;
+}
